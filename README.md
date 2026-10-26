@@ -42,3 +42,7 @@ This project uses synthetic, illustrative healthcare data. The statistics do not
 
 ## Skills Demonstrated
 SQL, PostgreSQL, Power BI, DAX, data preparation, KPI development, data visualization, dashboard design, and analytical storytelling.
+
+## Dashboard Preview
+
+![Hospital Emergency Department Analytics Dashboard](BI.png)
